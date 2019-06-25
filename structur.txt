@@ -1,0 +1,9 @@
+*FunctionName* # name
+** # variables start
+*** # body
+[] # while loop
+|| # if statment
+^ # end
+{} # assinment
+! # else (comes after ^)
+!() # else if (comes after ^)

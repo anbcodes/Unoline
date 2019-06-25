@@ -1,0 +1,11 @@
+*main*
+**Variables**:
+C=console.log
+E="Error: number to big"
+M="To your number"
+N={input}
+T=100
+b=0
+I=1
+***Body***:
+N<T;b<N|b{+1}^^!C:"Error: To Big".^
